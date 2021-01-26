@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1436122153 source:c:\users\usuário\desktop\filipesoares-pamelaevelyn\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
+1436125792 source:g:\filipesoares-pamelaevelyn\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
